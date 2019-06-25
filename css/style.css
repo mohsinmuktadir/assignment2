@@ -1,0 +1,94 @@
+*{
+	margin: 0px;
+}
+
+body {
+font-family: 'Arimo', sans-serif;
+background:url(../img/field-20.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+
+
+}
+.container {
+    width: 450px;
+    margin: 10% auto;
+    background-color: #b0b0c6;
+    padding: 20px;
+
+
+}
+
+.login-form form {
+padding: 20px 20px;
+
+}
+
+.login-form img {
+	width: 150px;
+	height: 150px;
+	margin: 0px auto;
+	display: block;
+
+	
+}
+
+.login-form h3 {
+    color: #101011;
+    text-align: center;
+    margin: 20px;
+    font-size: 30px;
+
+}
+
+.form-control {
+	width: 80%;
+	padding: : 30px 15px;
+	margin-bottom: 10px;
+
+
+	
+}
+
+.btn{ 
+	background: maroon;
+	color: #ffff;
+	padding: 10px 20px;
+	margin: 10px auto;
+	display: block;
+	text-transform: uppercase;
+	border: none;
+	font-size: 20px;
+	transition: 0.8s ease;
+	
+
+}
+
+.btn:hover { 
+	
+	cursor: pointer;
+	box-shadow: 5px 5px 3px #ffff;
+
+
+}
+
+.btn1 {
+    background: #ebebf3;
+    color: #ffff;
+    padding: 10px 10px;
+    margin: 0px auto;
+    display: block;
+    text-transform: uppercase;
+    border: none;
+    font-size: 20px;
+    transition: 0.8s ease;
+    text-align: center;
+}
+
+.btn2{ 
+	color: Blue;
+	font-size: 10px;
+	text-align: right;
+	margin: 0px auto;
+	display: block;
+}
